@@ -4,4 +4,4 @@
 Richard, Kristoffer, Jakob, Hans
 
 # Goals:
-* To pass our exam
+* To pass our exam with an ok grade
