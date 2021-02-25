@@ -1,2 +1,7 @@
 # teknikfag-eksamen
-Teknikfagseksamen 3.g
+
+###### group members:
+Richard, Kristoffer, Jakob, Hans
+
+# goals:
+* to pass our exam
