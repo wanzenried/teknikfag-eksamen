@@ -1,7 +1,7 @@
-# teknikfag-eksamen
+# Teknikfag-eksamen
 
-###### group members:
+###### Group members:
 Richard, Kristoffer, Jakob, Hans
 
-# goals:
-* to pass our exam
+# Goals:
+* To pass our exam
