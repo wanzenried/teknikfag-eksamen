@@ -7,3 +7,5 @@ Richard, Kristoffer, Jakob, Hans
 * To pass our exam
 
 addition
+
+addition2
