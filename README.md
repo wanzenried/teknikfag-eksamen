@@ -5,7 +5,3 @@ Richard, Kristoffer, Jakob, Hans
 
 # Goals:
 * To pass our exam
-
-addition
-
-addition2
