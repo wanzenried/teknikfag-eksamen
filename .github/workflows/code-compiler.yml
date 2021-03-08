@@ -34,4 +34,4 @@ jobs:
           arduino-cli core install arduino:avr
 
       - name: compile sketch
-        run: arduino-cli compile --fqbn arduino:avr:mega ./code/program
+        run: arduino-cli compile --fqbn arduino:avr:mega ./code/arduino/program
